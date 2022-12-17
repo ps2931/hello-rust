@@ -1,4 +1,10 @@
-#![allow(dead_code, unused_imports, unused_variables, unused_mut, unreachable_code)]
+#![allow(
+    dead_code,
+    unused_imports,
+    unused_variables,
+    unused_mut,
+    unreachable_code
+)]
 
 mod part01;
 mod part02;
@@ -9,6 +15,9 @@ mod part06;
 mod part07;
 mod part08;
 mod part09;
+mod part10;
+mod part11;
+mod part12;
 
 fn main() {
     // part01::run();
@@ -19,5 +28,8 @@ fn main() {
     // part06::run();
     // part07::run();
     // part08::run();
-    part09::run();
+    // part09::run();
+    // part10::run();
+    // part11::run();
+    // part12::run();
 }
