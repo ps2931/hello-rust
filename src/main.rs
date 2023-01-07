@@ -19,6 +19,9 @@ mod part10;
 mod part11;
 mod part12;
 mod part13;
+mod part14;
+mod part15;
+mod part16;
 
 fn main() {
     // part01::run();
@@ -33,5 +36,8 @@ fn main() {
     // part10::run();
     // part11::run();
     // part12::run();
-    part13::run();
+    // part13::run();
+    // part14::run();
+    // part15::run();
+    part16::run();
 }

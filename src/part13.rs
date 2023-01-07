@@ -1,5 +1,10 @@
 // Functional Language Features
 
+pub fn run() {
+
+    println!("This module do not have any code to run.\nRefer to part13.rs file for details.");
+}
+
 // Programming in a functional style often includes using functions as values by passing them in
 // arguments, returning them from other functions, assigning them to variables for later execution,
 // and so forth.
